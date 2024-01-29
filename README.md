@@ -1,8 +1,10 @@
 # myntCodingTest
 **Problem Statemment-1:**
 Design UI with 3 sub views with different background colours which should adapt for different iOS device sizes like iPHone5 to iPhone15. Without using stack views with auto layouts.
+
 **Problem stament-2:**
 write a function to return the alternate characters as a string from an input string
+
 **Problem stament-3:**
 From that problem statement-2 output string need to find the characters repeated 3 times.
 
